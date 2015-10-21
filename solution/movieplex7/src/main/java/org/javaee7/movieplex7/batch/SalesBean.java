@@ -52,7 +52,7 @@ import org.javaee7.movieplex7.entities.Sales;
 
 
 /**
- * @author Arun Gupta
+ * @author Rajendra Rana
  */
 @Named
 @RequestScoped
